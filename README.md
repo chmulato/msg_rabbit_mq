@@ -1,1 +1,1 @@
-"# msg_rabbit_mq" 
+RabbitMQ Trainning - Message Broker
